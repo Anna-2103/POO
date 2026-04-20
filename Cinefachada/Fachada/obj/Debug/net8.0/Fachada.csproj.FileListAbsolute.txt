@@ -1,0 +1,14 @@
+C:\Users\anism\source\repos\Cinefachada\Fachada\bin\Debug\net8.0\Fachada.exe
+C:\Users\anism\source\repos\Cinefachada\Fachada\bin\Debug\net8.0\Fachada.deps.json
+C:\Users\anism\source\repos\Cinefachada\Fachada\bin\Debug\net8.0\Fachada.runtimeconfig.json
+C:\Users\anism\source\repos\Cinefachada\Fachada\bin\Debug\net8.0\Fachada.dll
+C:\Users\anism\source\repos\Cinefachada\Fachada\bin\Debug\net8.0\Fachada.pdb
+C:\Users\anism\source\repos\Cinefachada\Fachada\obj\Debug\net8.0\Fachada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anism\source\repos\Cinefachada\Fachada\obj\Debug\net8.0\Fachada.AssemblyInfoInputs.cache
+C:\Users\anism\source\repos\Cinefachada\Fachada\obj\Debug\net8.0\Fachada.AssemblyInfo.cs
+C:\Users\anism\source\repos\Cinefachada\Fachada\obj\Debug\net8.0\Fachada.csproj.CoreCompileInputs.cache
+C:\Users\anism\source\repos\Cinefachada\Fachada\obj\Debug\net8.0\Fachada.dll
+C:\Users\anism\source\repos\Cinefachada\Fachada\obj\Debug\net8.0\refint\Fachada.dll
+C:\Users\anism\source\repos\Cinefachada\Fachada\obj\Debug\net8.0\Fachada.pdb
+C:\Users\anism\source\repos\Cinefachada\Fachada\obj\Debug\net8.0\Fachada.genruntimeconfig.cache
+C:\Users\anism\source\repos\Cinefachada\Fachada\obj\Debug\net8.0\ref\Fachada.dll
