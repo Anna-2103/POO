@@ -1,0 +1,6 @@
+@SistemaEscenariosDeportivos_HostAddress = http://localhost:5093
+
+GET {{SistemaEscenariosDeportivos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
